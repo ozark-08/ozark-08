@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozark-08
-- 👀 I’m interested in open source
-- 🌱 I’m currently learning data structures and competitve programing
+- 👀 I’m interested in open source, Machine Learning, IOT
+- 🌱 I’m currently learning MERN development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
