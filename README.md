@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozark-08
+- 👋 Hi, I’m Arshiya Hussain
 - 👀 I’m interested in open source, Machine Learning, IOT
 - 🌱 I’m currently learning MERN development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
