@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshiya Hussain
-- 👀 I’m interested in open source, Machine Learning, IOT
-- 🌱 I’m currently learning MERN development and Machine Learning
+- 👀 I’m interested in Machine Learning and would like to explore IOT 
+- 🌱 I’m currently learning REACT development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
