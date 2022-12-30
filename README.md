@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshiya Hussain
-- 👀 I’m interested in Machine Learning and would like to explore IOT 
+- 👀 I’m interested in Machine Learning, deep learning, computer network simulations and problem-solving 
 - 🌱 I’m currently learning REACT development and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
