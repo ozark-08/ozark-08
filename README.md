@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arshiya Hussain
-- 👀 I’m interested in Machine Learning, deep learning, computer network simulations and problem-solving 
-- 🌱 I’m currently learning REACT development and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack develpoment,Machine Learning,Data science, creating data simulations using ML and full stack and problem-solving 
+- 🌱 I’m currently learning MERN development 
 - 📫 You can reach me through linkedIn/arshiya-hussain
 
 <!---
